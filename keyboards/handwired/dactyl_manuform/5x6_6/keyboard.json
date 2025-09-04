@@ -29,7 +29,7 @@
     "split": {
         "enabled": true,
         "serial": {
-            "pin": "D3"
+            "driver": "USART"
         }
     },
     "processor": "atmega32u4",
